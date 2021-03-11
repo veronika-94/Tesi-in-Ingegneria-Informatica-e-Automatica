@@ -3,7 +3,9 @@
 Tesi di laurea triennale in "Ingegneria Inoformatica e Automatica" A.A. 2018/2019
 
 Facoltà di Ingegneria dell’Informazione Informatica e Statistica
+
 Corso di Laurea in Ingegneria Informatica e Automatica
+
 Università di Roma "La Sapienza"
 
 Titolo tesi: "Controllo e gestione delle utenze domestiche in funzione dell’energia prodotta da fonti rinnovabili e dalla rete elettrica"
